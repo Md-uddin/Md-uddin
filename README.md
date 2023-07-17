@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Md-uddin
+- 👋 Hi, I’m md mohi
 - 👀 I’m interested in M.E.R.N stack development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
